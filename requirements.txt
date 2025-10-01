@@ -1,0 +1,15 @@
+pandas
+faker
+requests
+faiss-cpu
+sentence-transformers
+rank-bm25
+scikit-learn
+langchain
+httpx
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+fastapi
+uvicorn
+tqdm
